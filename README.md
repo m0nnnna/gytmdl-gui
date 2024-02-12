@@ -11,3 +11,13 @@ You will need to install 1 module
 $pip install tk
 
 Once that is complete download the two Python files and run the launcher.py script.
+
+Still WIP WebUI config.
+
+for the WebUI you will need to install flask
+
+$pip install flask
+
+Once done run the app.py script this will launch a python dev server security does not exist for this you have been warned. 
+
+visit localhost:5000 or once allowed through the firewall your devices IP:5000 and you will be able to paste links just like with the GUI program.
